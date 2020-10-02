@@ -1,0 +1,2 @@
+# Otimizacao_hiperparametrica
+Repositório para armazenar arquivos sobre otimização hiperparamétrica

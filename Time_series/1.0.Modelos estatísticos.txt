@@ -1,0 +1,4 @@
+Foram estudados os modelos estatísticos AR, MA, ARMA e ARIMA.
+A base de dados utilizada em todos (com excessão do ARIMA) foi a mesma, contudo percebi que não era a ideal por se tratar de dados com tendência e sazonais, pretendo refazer os notebooks com uma base de dados correta, porém foi bom para entender como funciona cada modelo.
+Cada notebook contém um exemplo dos modelos com gráficos e anotações
+Como material de apoio foi utilizado o livro Pratical Time Series Analysis Prediction - Aileen Nielsen, além de vídeo explicativos do canal ritvikmath e tutoriais disponíveis no site https://machinelearningmastery.com/
